@@ -7,7 +7,6 @@ Take your notes like a pro
 
 ```
 Run pipenv shell
-
 ```
 
 ##### To see all usage with docopt, run:
@@ -33,12 +32,4 @@ python3 app.py view
 
 ```
 python3 app.py create "title" "the note"
-
-```
-
-#### Update, or Delete: (Target ID)
-
-```
-
-
 ```
