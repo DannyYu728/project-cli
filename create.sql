@@ -1,1 +1,1 @@
-create database jets2
+create database notes;
